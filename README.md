@@ -1,2 +1,2 @@
 # Library
-libraryarnab.42web.io
+http://libraryarnab.42web.io
