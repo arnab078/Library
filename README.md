@@ -6,7 +6,7 @@ This project helps us to transform the traditional libraries into digital librar
 
 
 ## Live Link
-  https://libraryarnab.42web.io
+  http://libraryarnab.42web.io
 
 
 ## Screenshots
