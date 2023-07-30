@@ -80,9 +80,9 @@ This project helps us to transform the traditional libraries into digital librar
     ->Extract the downloaded source code zip file.
     ->Copy the extracted source code folder and paste it into the C:\xampp\htdocs path.
     ->Open browser and search for localhost/phpmyadmin.
-    ->Create a new database and name as c4u.
-    ->Go to import section and browse the SQL file which is named as sql_database_c4u.
-    ->Now browse in a new tab and search for localhost/c4u-hospital-management-system
+    ->Create a new database and name as onlinelibrary.
+    ->Go to import section and browse the SQL file which is named as sql_database_onlinelibrary.
+    ->Now browse in a new tab and search for localhost/online_library_management_system.
 ## Contributing
 
 Contributions are always welcome!
